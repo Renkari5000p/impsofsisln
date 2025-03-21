@@ -29,3 +29,4 @@ def fizzbuzz(max_num):
 #----Iniciar el script
 if __name__=='__main__':
     fizzbuzz(100)
+    
