@@ -7,7 +7,6 @@ Para todos los enteros entre 1 y 99 (incluidos ambos):
     # imprimir buzz para múltiplos de 5
     # imprimir fizzbuzz para múltiplos de 3 y 5
 """
-
 def fizzbuzz(max_num):
     "Este metodo implementa FizzBuzz"
 
@@ -26,7 +25,7 @@ def fizzbuzz(max_num):
         elif i%num2==0:
             print(i,cinco_mul)
 
-#----Iniciar el script 
+#----Iniciar el script
 if __name__=='__main__':
     fizzbuzz(100)
     
