@@ -23,4 +23,4 @@ def fizzbuzz(max_num):
 
 #iniciar el script
 if __name__=='__main__':
-    fizzbuzz()
+    fizzbuzz(100)
