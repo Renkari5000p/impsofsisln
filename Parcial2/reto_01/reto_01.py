@@ -26,7 +26,7 @@ def fizzbuzz(max_num):
         elif i%num2==0:
             print(i,cinco_mul)
 
-#----Iniciar el script
+#----Iniciar el script 
 if __name__=='__main__':
     fizzbuzz(100)
     
