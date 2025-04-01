@@ -1,0 +1,9 @@
+with open('alumnos.txt', 'r') as fichero:
+     for linea in fichero.readlines():
+ 	    print(linea, end='')
+input("escribe tu nombre")
+input("escribe tu edad")
+input("escribe tu fecha de nacimiento")
+ carlos
+ 15
+ 2009
